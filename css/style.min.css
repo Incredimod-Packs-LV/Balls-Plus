@@ -3398,9 +3398,9 @@ video::-webkit-media-controls {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%
+}
 
-
-#box-bottom #box-picto .pictoline.bot {
+.v2 #box-bottom #box-picto .pictoline.bot {
 	position: relative;
 	display: -ms-flexbox;
 	display: flex;
