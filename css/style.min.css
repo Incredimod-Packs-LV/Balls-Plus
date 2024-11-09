@@ -3410,7 +3410,7 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 55%;
+	width: 45%;
 }
     }
 
