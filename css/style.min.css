@@ -3377,7 +3377,7 @@ video::-webkit-media-controls {
 	pointer-events: none
 }
 
-.v1# box-bottom #box-picto .pictoline.top {
+.v1 #box-bottom #box-picto .pictoline.top {
 	position: relative;
 	display: -ms-flexbox;
 	display: flex;
@@ -3409,7 +3409,6 @@ video::-webkit-media-controls {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 53%;
-	margin: 0% 0% auto 0%
 }
 
 #box-bottom #box-picto.fade {
