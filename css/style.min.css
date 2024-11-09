@@ -60,7 +60,7 @@
 	--popup-pointe-w: calc(26px * var(--popup-scale));
 	--sp-intro-scale: 1;
 	--sp-select-scale: 1;
-	--picto-width: 68px;
+	--picto-width: 98px;
 	--tab-height: 60px;
 	--formline-height: 40px;
 	--icn-formline-height: 35px
@@ -3398,7 +3398,6 @@ video::-webkit-media-controls {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%;
-	height: 95%;
 	margin: 0 auto 0 0
 }
 
@@ -3411,7 +3410,6 @@ video::-webkit-media-controls {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%;
-	height: 95%;
 	margin: auto 0 0 0
 }
 
