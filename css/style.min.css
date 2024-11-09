@@ -3394,7 +3394,7 @@ video::-webkit-media-controls {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-align: center;
-	align-items: center;
+	align-items: flex-start;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%;
@@ -3406,9 +3406,9 @@ video::-webkit-media-controls {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-align: center;
-	align-items: center;
+	align-items: flex-end;
 	-ms-flex-pack: justify;
-	justify-content: center;
+	justify-content: space-between;
 	width: 95%;
 	margin: auto 0 0 0
 }
