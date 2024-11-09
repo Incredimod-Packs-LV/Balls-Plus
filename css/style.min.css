@@ -3377,7 +3377,7 @@ video::-webkit-media-controls {
 	pointer-events: none
 }
 
-.v1#box-bottom #box-picto .pictoline.top {
+.v1# box-bottom #box-picto .pictoline.top {
 	position: relative;
 	display: -ms-flexbox;
 	display: flex;
@@ -3400,7 +3400,7 @@ video::-webkit-media-controls {
 	width: 95%
 
 
-.v2#box-bottom #box-picto .pictoline.bot {
+.v2 #box-bottom #box-picto .pictoline.bot {
 	position: relative;
 	display: -ms-flexbox;
 	display: flex;
@@ -3452,95 +3452,95 @@ video::-webkit-media-controls {
 	opacity: 1
 }
 
-.v1#box-bottom #box-picto .picto#picto0 .bck {
+.v1 #box-bottom #box-picto .picto#picto0 .bck {
 	background-position: calc((100% / 19) * 0) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto1 .bck {
+.v1 #box-bottom #box-picto .picto#picto1 .bck {
 	background-position: calc((100% / 19) * 1) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto2 .bck {
+.v1 #box-bottom #box-picto .picto#picto2 .bck {
 	background-position: calc((100% / 19) * 2) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto3 .bck {
+.v1 #box-bottom #box-picto .picto#picto3 .bck {
 	background-position: calc((100% / 19) * 3) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto4 .bck {
+.v1 #box-bottom #box-picto .picto#picto4 .bck {
 	background-position: calc((100% / 19) * 4) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto5 .bck {
+.v1 #box-bottom #box-picto .picto#picto5 .bck {
 	background-position: calc((100% / 19) * 5) 0
 }
 
-.v1#box-bottom #box-picto .picto#picto6 .bck {
+.v1 #box-bottom #box-picto .picto#picto6 .bck {
 	background-position: calc((100% / 19) * 6) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto0 .bck {
+.v2 #box-bottom #box-picto .picto#picto0 .bck {
 	background-position: calc((100% / 15) * 0) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto1 .bck {
+.v2 #box-bottom #box-picto .picto#picto1 .bck {
 	background-position: calc((100% / 15) * 1) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto2 .bck {
+.v2 #box-bottom #box-picto .picto#picto2 .bck {
 	background-position: calc((100% / 15) * 2) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto3 .bck {
+.v2 #box-bottom #box-picto .picto#picto3 .bck {
 	background-position: calc((100% / 15) * 3) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto4 .bck {
+.v2 #box-bottom #box-picto .picto#picto4 .bck {
 	background-position: calc((100% / 15) * 4) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto5 .bck {
+.v2 #box-bottom #box-picto .picto#picto5 .bck {
 	background-position: calc((100% / 15) * 5) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto6 .bck {
+.v2 #box-bottom #box-picto .picto#picto6 .bck {
 	background-position: calc((100% / 15) * 6) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto7 .bck {
+.v2 #box-bottom #box-picto .picto#picto7 .bck {
 	background-position: calc((100% / 15) * 7) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto8 .bck {
+.v2 #box-bottom #box-picto .picto#picto8 .bck {
 	background-position: calc((100% / 15) * 8) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto9 .bck {
+.v2 #box-bottom #box-picto .picto#picto9 .bck {
 	background-position: calc((100% / 15) * 9) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto10 .bck {
+.v2 #box-bottom #box-picto .picto#picto10 .bck {
 	background-position: calc((100% / 15) * 10) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto11 .bck {
+.v2 #box-bottom #box-picto .picto#picto11 .bck {
 	background-position: calc((100% / 15) * 11) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto12 .bck {
+.v2 #box-bottom #box-picto .picto#picto12 .bck {
 	background-position: calc((100% / 15) * 12) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto13 .bck {
+.v2 #box-bottom #box-picto .picto#picto13 .bck {
 	background-position: calc((100% / 15) * 13) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto14 .bck {
+.v2 #box-bottom #box-picto .picto#picto14 .bck {
 	background-position: calc((100% / 15) * 14) 0
 }
 
-.v2#box-bottom #box-picto .picto#picto15 .bck {
+.v2 #box-bottom #box-picto .picto#picto15 .bck {
 	background-position: calc((100% / 15) * 15) 0
 }
 
