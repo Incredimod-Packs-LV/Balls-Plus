@@ -3400,7 +3400,7 @@ video::-webkit-media-controls {
 	width: 95%
 
 
-.v2 #box-bottom #box-picto .pictoline.bot {
+#box-bottom #box-picto .pictoline.bot {
 	position: relative;
 	display: -ms-flexbox;
 	display: flex;
