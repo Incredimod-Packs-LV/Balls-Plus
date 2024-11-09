@@ -3394,10 +3394,11 @@ video::-webkit-media-controls {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-align: center;
-	align-items: flex-start;
+	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%;
+	height: 95%;
 	margin: 0 auto 0 0
 }
 
@@ -3406,10 +3407,11 @@ video::-webkit-media-controls {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-align: center;
-	align-items: flex-end;
+	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%;
+	height: 95%;
 	margin: auto 0 0 0
 }
 
