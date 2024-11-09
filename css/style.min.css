@@ -688,7 +688,7 @@ hr {
 	right: calc(var(--sp-select-scale) * -10px);
 	width: calc(var(--sp-select-scale) * 32px);
 	height: calc(var(--sp-select-scale) * 32px);
-	border-radius: 10%;
+	border-radius: 50%;
 	opacity: 0;
 	transform: scale(.5)
 }
