@@ -3399,7 +3399,6 @@ video::-webkit-media-controls {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%
-	margin: 0% auto 0% 0%
 }
     }
 
