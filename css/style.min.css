@@ -3410,8 +3410,8 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 65%;
-	margin: 0% 0% 0% left
+	width: 55%;
+	margin: 0% 0% 0% auto
 }
     }
 
