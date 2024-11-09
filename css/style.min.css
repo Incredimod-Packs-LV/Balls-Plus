@@ -3409,8 +3409,8 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 95%;
-	margin: 0 0 0 auto
+	width: 53%;
+	margin: 0 0 auto 0
 }
 
 #box-bottom #box-picto.fade {
